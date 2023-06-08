@@ -1,0 +1,9 @@
+vnev/
+.idea/
+media/
+
+**/__pycache__/
+*.pyc
+
+db.sqlite3
+local_settings.py
